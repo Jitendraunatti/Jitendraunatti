@@ -1,6 +1,6 @@
 <html>
 <h1 align="center">𝗛𝗶 👋, 𝗜'𝗺 𝗝𝗜𝗧𝗘𝗡𝗗𝗥𝗔 𝗞𝗨𝗠𝗔𝗥</h1>
-<h3 align="center">𝐖𝐡𝐞𝐧 𝐈 𝐚𝐦 𝐰𝐫𝐢𝐭𝐢𝐧𝐠 𝐜𝐨𝐝𝐞, 𝐭𝐡𝐚𝐭 𝐦𝐞𝐚𝐧𝐬 𝐈 𝐚𝐦 𝐝𝐞𝐟𝐢𝐧𝐢𝐭𝐞𝐥𝐲 𝐝𝐞𝐬𝐭𝐫𝐨𝐲 𝐬𝐨𝐦𝐞𝐭𝐡𝐢𝐧𝐠.</h3>
+<h3 align="center">ᴀʟᴡᴀʏꜱ ᴘʟᴀʏꜱ ᴡɪᴛʜ ʟᴀɴɢᴜᴀɢᴇꜱ🐍</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=jitendraunatti&label=Profile%20views&color=0e75b6&style=flat" alt="jitendraunatti" /> </p>
 <br>
