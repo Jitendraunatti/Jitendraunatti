@@ -11,11 +11,11 @@
 <div style="background-color: #1E1E2E; border-radius: 10px; padding: 30px; color: #F8D866; margin: 20px;">
     <h2 style="text-align: center; border-bottom: 2px solid #F8D866;">⚔️ ᴀʙᴏᴜᴛ ᴍᴇ:</h2>
     <ul style="list-style: none; padding: 0;">
-        <li>🌱 **Currently learning**: <strong>PHP, Java, Python, C, HTML, CSS.</strong></li>
-        <li>⚡ **Fun fact**: I think I am too lazy.</li>
-        <li>📫 **Contact me**: <a href="mailto:jitendraunatti@pm.me" style="color: #F8D866;">jitendraunatti@pm.me</a></li>
-        <li>👀 **Interests**: Backend development & a bit of hacking stuff.</li>
-        <li>👿 **Bad habit**: Destruction coder.</li>
+        <li>🌱 <strong>Currently learning</strong>: PHP, Java, Python, C, HTML, CSS.</li>
+        <li>⚡ <strong>Fun fact</strong>: I think I am too lazy.</li>
+        <li>📫 <strong>Contact me</strong>: <a href="mailto:jitendraunatti@pm.me" style="color: #F8D866;">jitendraunatti@pm.me</a></li>
+        <li>👀 <strong>Interests</strong>: Backend development & a bit of hacking stuff. 👾</li>
+        <li>👿 <strong>Bad habit</strong>: Destruction coder.</li>
     </ul>
 </div>
 
